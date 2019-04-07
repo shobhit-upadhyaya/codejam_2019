@@ -10,6 +10,7 @@ As an original thinker, you do not want to reuse any of Lydia's moves. Specifica
 
 In the following picture, Lydia's path is indicated in blue, and one possible valid path for you is indicated in orange:
 
+![path_explanation](you_go_your_way.png?raw=true "Path Explanation")
 
 **Input**
 
